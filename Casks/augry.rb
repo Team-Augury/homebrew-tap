@@ -1,6 +1,6 @@
 cask "augry" do
-  version "0.6.5"
-  sha256 "36a0314ebc443f030f5ee25706c608da8febb29fd9b69ef613125d603ca93d7f"
+  version "0.7.0"
+  sha256 "f6a901b26dce87f663752ebfddc8d1acc8ce68b349b1cd5259ebd6b337591363"
 
   url "https://github.com/Team-Augury/Augry/releases/download/v#{version}/Augry_#{version}_universal.dmg",
       verified: "github.com/Team-Augury/Augry/"
